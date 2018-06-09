@@ -97,7 +97,7 @@
 * [611 Metal for VR](https://developer.apple.com/videos/play/wwdc2018/611)
 * [612 Metal Game Performance Optimization](https://developer.apple.com/videos/play/wwdc2018/612)
 
-## Frameworks
+## Core OS
 * [701 Using Accelerate and simd](https://developer.apple.com/wwdc18/701)
 * [702 Your Apps and the Future of macOS Security](https://developer.apple.com/wwdc18/702)
 * [703 Introducing Create ML](https://developer.apple.com/wwdc18/703)
@@ -110,7 +110,7 @@
 * [710 What’s New in User Notifications](https://developer.apple.com/wwdc18/710)
 * [711 Using Grouped Notifications](https://developer.apple.com/wwdc18/711)
 * [712 A Guide to Turi Create](https://developer.apple.com/wwdc18/712)
-* [713 https://developer.apple.com/videos/play/wwdc2018/713](https://developer.apple.com/wwdc18/713)
+* [713 Introducing Natural Language Framework](https://developer.apple.com/wwdc18/713)
 * [714 Optimizing Your App for Today’s Internet](https://developer.apple.com/wwdc18/714)
 * [715 Introducing Network.framework: A modern alternative to Sockets](https://developer.apple.com/wwdc18/715)
 * [716 Object Tracking in Vision](https://developer.apple.com/wwdc18/716)
