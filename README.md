@@ -1,5 +1,22 @@
 # WWDC2018-Catalog
 
+## AR
+* [602 What’s New in ARKit 2](https://developer.apple.com/videos/play/wwdc2018/602)
+* [603 Integrating Apps and Content with AR Quick Look](https://developer.apple.com/videos/play/wwdc2018/603)
+* [605 Inside SwiftShot: Creating an AR Game](https://developer.apple.com/videos/play/wwdc2018/605)
+* [610 Understanding ARKit Tracking and Detection](https://developer.apple.com/videos/play/wwdc2018/610)
+* [805 Creating Great AR Experiences](https://developer.apple.com/wwdc18/805)
+* [808 Prototyping for AR](https://developer.apple.com/wwdc18/808)
+
+## AI - Machine Learning
+* [609 Metal for Accelerating Machine Learning](https://developer.apple.com/videos/play/wwdc2018/609)
+* [703 Introducing Create ML](https://developer.apple.com/wwdc18/703)
+* [708 What’s New in Core ML, Part 1](https://developer.apple.com/wwdc18/708)
+* [709 What’s New in Core ML, Part 2](https://developer.apple.com/wwdc18/709)
+* [713 Introducing Natural Language Framework](https://developer.apple.com/wwdc18/713)
+* [716 Object Tracking in Vision](https://developer.apple.com/wwdc18/716)
+* [717 Vision with Core ML](https://developer.apple.com/wwdc18/717)
+
 ## Featured
 * [101 WWDC 2018 Keynote](https://developer.apple.com/wwdc18/101)
 * [102 Platforms State of the Union](https://developer.apple.com/wwdc18/102)
