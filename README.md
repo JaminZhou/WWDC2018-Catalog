@@ -17,11 +17,19 @@
 * [716 Object Tracking in Vision](https://developer.apple.com/wwdc18/716)
 * [717 Vision with Core ML](https://developer.apple.com/wwdc18/717)
 
-# Swift
+## Swift
 * [401 What's New in Swift](https://developer.apple.com/videos/play/wwdc2018/401)
 * [406 Swift Generics](https://developer.apple.com/videos/play/wwdc2018/406)
 * [411 Getting to Know Swift Package Manager](https://developer.apple.com/videos/play/wwdc2018/411)
 * [413 Create Your Own Swift Playgrounds Subscription](https://developer.apple.com/videos/play/wwdc2018/413)
+
+## Xcode
+* [402 Getting the Most out of Playgrounds in Xcode](https://developer.apple.com/videos/play/wwdc2018/402)
+* [404 New Localization Workflows in Xcode 10](https://developer.apple.com/videos/play/wwdc2018/404)
+* [408 Building Faster in Xcode](https://developer.apple.com/videos/play/wwdc2018/408)
+* [412 Advanced Debugging with Xcode and LLDB](https://developer.apple.com/videos/play/wwdc2018/412)
+* [415 Behind the Scenes of the Xcode Build Process](https://developer.apple.com/videos/play/wwdc2018/415)
+* [418 Source Control Workflows in Xcode](https://developer.apple.com/videos/play/wwdc2018/418)
 
 ## Metal
 * [604 Metal for OpenGL Developers](https://developer.apple.com/videos/play/wwdc2018/604)
