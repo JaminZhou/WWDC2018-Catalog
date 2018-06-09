@@ -8,7 +8,7 @@
 * [805 Creating Great AR Experiences](https://developer.apple.com/wwdc18/805)
 * [808 Prototyping for AR](https://developer.apple.com/wwdc18/808)
 
-## AI - Machine Learning
+## AI - Machine Learning, Vision, NLP
 * [609 Metal for Accelerating Machine Learning](https://developer.apple.com/videos/play/wwdc2018/609)
 * [703 Introducing Create ML](https://developer.apple.com/wwdc18/703)
 * [708 What’s New in Core ML, Part 1](https://developer.apple.com/wwdc18/708)
