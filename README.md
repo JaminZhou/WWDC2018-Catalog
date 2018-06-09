@@ -17,6 +17,16 @@
 * [716 Object Tracking in Vision](https://developer.apple.com/wwdc18/716)
 * [717 Vision with Core ML](https://developer.apple.com/wwdc18/717)
 
+## Metal
+* [604 Metal for OpenGL Developers](https://developer.apple.com/videos/play/wwdc2018/604)
+* [606 Metal for Ray Tracing Acceleration](https://developer.apple.com/videos/play/wwdc2018/606)
+* [607 Metal for Game Developers](https://developer.apple.com/videos/play/wwdc2018/607)
+* [608 Metal Shader Debugging and Profiling](https://developer.apple.com/videos/play/wwdc2018/608)
+* [609 Metal for Accelerating Machine Learning](https://developer.apple.com/videos/play/wwdc2018/609)
+* [611 Metal for VR](https://developer.apple.com/videos/play/wwdc2018/611)
+* [612 Metal Game Performance Optimization](https://developer.apple.com/videos/play/wwdc2018/612)
+
+
 ## Featured
 * [101 WWDC 2018 Keynote](https://developer.apple.com/wwdc18/101)
 * [102 Platforms State of the Union](https://developer.apple.com/wwdc18/102)
