@@ -1,4 +1,4 @@
-# WWDC2018-Catalog
+# All kinds of sessions from WWDC 2018
 
 ## AR
 * [602 What’s New in ARKit 2](https://developer.apple.com/videos/play/wwdc2018/602)
